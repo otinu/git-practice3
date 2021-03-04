@@ -1,0 +1,4 @@
+Hello Git
+
+Now,I'm Writting text in the VimMode.
+Next,gonna push this text-file to my remote-repository.
